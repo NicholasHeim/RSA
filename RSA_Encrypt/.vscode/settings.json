@@ -1,0 +1,8 @@
+{
+   "files.associations": {
+      "iostream": "cpp",
+      "iosfwd": "cpp"
+   },
+   "editor.wordWrapColumn": 150,
+   "editor.wordWrap": "wordWrapColumn"
+}
